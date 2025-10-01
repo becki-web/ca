@@ -1,2 +1,2 @@
 let fridge = ["eggs", "Fish", "Meat", 2, 40]
-console.log(fridge[])
+console.log(fridge[3])
