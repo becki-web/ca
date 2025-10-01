@@ -10,7 +10,7 @@ let color = "blue"
 let age = 19
 let classes = 40
 let cities = 20
-let pets = 2
+let pets = 5
 let siblings = 3
 
 
